@@ -1,0 +1,6 @@
+pruebas
+.frama-c/
+informe/*.aux
+informe/*.log
+informe/*.out
+informe/*.toc
